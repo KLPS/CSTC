@@ -1,0 +1,15 @@
+{
+    "settings": {
+        "extensions.ignoreRecommendations": true,
+        "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+        "files.associations": {
+            "*.ino": "cpp"
+        },
+        "particle.targetDevice": "51002e000451353532373238"
+    },
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
+}
